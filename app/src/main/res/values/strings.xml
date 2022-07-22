@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GameQuiz</string>
+    <string name="score">1/10</string>
+    <string name="forgot_pass"><u>forgot password?</u></string>
+    <string name="reset_password">Reset Password</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="sample_gmail_com">sample@gmail.com</string>
+</resources>
