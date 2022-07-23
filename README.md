@@ -37,7 +37,7 @@ This aims to entertain and educate players at the same time.
 
 ## Demo
 
-click to watch our [Demo](https://github.com/Daniela011518/IT-Quiz-Game.git)
+click to watch our [Demo](https://www.youtube.com/watch?v=hSqXEACgPPM)
 
 ## Developer
 
